@@ -21,4 +21,5 @@ Madame.Web => {[tmdbid=634492;type=movie]}.
 \.第七季 => .S07
 \.第八季 => .S08
 \.第九季 => .S09
+ONE：高中英雄们 => {[tmdbid=233219;type=tv]}.
 
