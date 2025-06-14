@@ -4,7 +4,7 @@
 ^2012\. => 二零一二.
 ^1917\. => 一九一七.
 ^12.Monkeys => 十二猴子.
-^11.Rebels. ^1942 => {[tmdbid=1310682;type=movie]}.
+^11.Rebels. => {[tmdbid=1310682;type=movie]}.
 119.Emergency.Call. => 119紧急呼叫.
 101.Marriages => 101次抢婚
 ^2046\. => {[tmdbid=844;type=movie]}.
