@@ -24,3 +24,34 @@ Madame.Web => {[tmdbid=634492;type=movie]}.
 \.第九季 => .S09
 ONE：高中英雄们 => {[tmdbid=233219;type=tv]}.
 
+#教父系列
+教父.1 => {[tmdbid=238;type=movie]}.
+The.Godfather.Part.I => {[tmdbid=242;type=movie]}.
+The.Godfather.Part.1 => {[tmdbid=242;type=movie]}.
+教父.2 => {[tmdbid=240;type=movie]}.
+The.Godfather.Part.II => {[tmdbid=240;type=movie]}.
+The.Godfather.Part.2 => {[tmdbid=240;type=movie]}.
+教父.3 => {[tmdbid=242;type=movie]}.
+The.Godfather.Part.III => {[tmdbid=242;type=movie]}.
+The.Godfather.Part.3 => {[tmdbid=242;type=movie]}.
+
+#哈利波特系列
+Harry.Potter.I => {[tmdbid=671;type=movie]}
+哈利波特1 => {[tmdbid=671;type=movie]}
+Harry.Potter.II => {[tmdbid=672;type=movie]}
+哈利波特2 => {[tmdbid=672;type=movie]}
+Harry.Potter.III => {[tmdbid=673;type=movie]}
+哈利波特3 => {[tmdbid=673;type=movie]}
+Harry.Potter.IV => {[tmdbid=674;type=movie]}
+哈利波特4 => {[tmdbid=674;type=movie]}
+Harry.Potter.V => {[tmdbid=675;type=movie]}
+哈利波特5 => {[tmdbid=675;type=movie]}
+Harry.Potter.VI => {[tmdbid=767;type=movie]}
+哈利波特6 => {[tmdbid=767;type=movie]}
+Harry.Potter.and.the.Deathly.Hallows։ Part.1 => {[tmdbid=12444;type=movie]}
+哈利波特与死亡圣器1 => {[tmdbid=12444;type=movie]}
+Harry.Potter.and.the.Deathly.Hallows։ Part.2 => {[tmdbid=12445;type=movie]}
+哈利波特与死亡圣器2 => {[tmdbid=12445;type=movie]}
+
+
+
