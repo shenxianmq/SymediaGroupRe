@@ -54,5 +54,5 @@ Harry.Potter.and.the.Deathly.Hallows։ Part.2 => {[tmdbid=12445;type=movie]}
 哈利波特与死亡圣器2 => {[tmdbid=12445;type=movie]}
 
 超时空要塞\sFrontier => {[tmdbid=5857;type=tv]}
-正义使者\s-\s我的英雄学院之非法英雄 => {[tmdbid=280110;type=tv]}
+正义使者\s*-\s*我的英雄学院之非法英雄 => {[tmdbid=280110;type=tv]}
 
