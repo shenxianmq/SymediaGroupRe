@@ -11,7 +11,6 @@
 ^2046\. => {[tmdbid=844;type=movie]}.
 Madame.Web => {[tmdbid=634492;type=movie]}.
 F1：狂飙飞车 => {[tmdbid=911430;type=movie]}.
-\.SE(\d+)\. => .E\1.
 少女与战车 最终章 ～第1话～ => {[tmdbid=474659;type=movie]}.
 少女与战车 最终章 ～第2话～ => {[tmdbid=496891;type=movie]}.
 少女与战车 最终章 ～第3话～ => {[tmdbid=746880;type=movie]}.
