@@ -31,13 +31,13 @@ F1：狂飙飞车 => {[tmdbid=911430;type=movie]}.
 ONE：高中英雄们 => {[tmdbid=233219;type=tv]}.
 
 #教父系列
-教父.1 => {[tmdbid=238;type=movie]}.
+教父\.1\. => {[tmdbid=238;type=movie]}.
 The.Godfather.Part.I => {[tmdbid=242;type=movie]}.
 The.Godfather.Part.1 => {[tmdbid=242;type=movie]}.
-教父.2 => {[tmdbid=240;type=movie]}.
+教父\.2\. => {[tmdbid=240;type=movie]}.
 The.Godfather.Part.II => {[tmdbid=240;type=movie]}.
 The.Godfather.Part.2 => {[tmdbid=240;type=movie]}.
-教父.3 => {[tmdbid=242;type=movie]}.
+教父\.3\. => {[tmdbid=242;type=movie]}.
 The.Godfather.Part.III => {[tmdbid=242;type=movie]}.
 The.Godfather.Part.3 => {[tmdbid=242;type=movie]}.
 
