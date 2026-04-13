@@ -65,3 +65,4 @@ Harry.Potter.and.the.Deathly.Hallows։ Part.2 => {[tmdbid=12445;type=movie]}
 超时空要塞\sFrontier => {[tmdbid=5857;type=tv]}
 正义使者\s*-\s*我的英雄学院之非法英雄 => {[tmdbid=280110;type=tv]}
 海贼王 => 航海王
+Boss.2025 => {[tmdbid=1053231;type=movie]}
