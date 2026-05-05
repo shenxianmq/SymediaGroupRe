@@ -67,3 +67,4 @@ Harry.Potter.and.the.Deathly.Hallows։ Part.2 => {[tmdbid=12445;type=movie]}
 海贼王 => 航海王
 Boss.2025 => {[tmdbid=1053231;type=movie]}
 tokeikannosatsujin => {[[tmdbid=305986;type=tv]}
+Ginga.no.Ippyou  => {[[tmdbid=314639;type=tv]}
