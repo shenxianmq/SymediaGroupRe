@@ -70,3 +70,4 @@ Harry.Potter.and.the.Deathly.Hallows։ Part.2 => {[tmdbid=12445;type=movie]}
 Boss.2025 => {[tmdbid=1053231;type=movie]}
 tokeikannosatsujin => {[[tmdbid=305986;type=tv]}
 Ginga.no.Ippyou  => {[[tmdbid=314639;type=tv]}
+Doctor X：白色黑手党时代 => {[[tmdbid=293610;type=tv]}
