@@ -72,3 +72,4 @@ tokeikannosatsujin => {[[tmdbid=305986;type=tv]}
 Ginga.no.Ippyou  => {[[tmdbid=314639;type=tv]}
 Doctor X：白色黑手党时代 => {[[tmdbid=293610;type=tv]}
 PoliticaLupin => {[[tmdbid=332261;type=tv]}
+Kamen.Rider.Mys => {[[tmdbid=318445;type=tv]}
